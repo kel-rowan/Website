@@ -20,6 +20,7 @@ p{
   color:palevioletred;
   font-family: sans-serif;
   font-weight: 900;
+  border-style: groove
   
   
     
@@ -47,7 +48,10 @@ h2{
   font-weight: 900;
   font-size: 20px;
   outline-width: thick;
-  border-radius: 30px;
+  border-radius: 10px;
+  flex-shrink: 3;
+  display: flex;
+  letter-spacing: 
 }
 .db
 { 
@@ -56,4 +60,8 @@ color:yellow;
   font-family: sans-serif;
   font-weight: 900px;
   text-shadow: -1px 5px black;
+}
+.miku{
+  display: flex;
+  align-items: flex-end
 }
