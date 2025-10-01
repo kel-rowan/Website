@@ -1,0 +1,59 @@
+body {
+  background: azure;
+  font-family: sans-serif;
+  background-image:url(miku.jpeg)
+}
+ul {
+  color: purple;
+  font-family:fantasy;
+  font-weight: bolder
+    
+}
+h1 {
+  Color: blue;
+  font-weight: bold;
+  text-shadow: -1px 3px black;
+  text-align: center;
+  letter-spacing: inherit;
+}
+p{
+  color:palevioletred;
+  font-family: sans-serif;
+  font-weight: 900;
+  
+  
+    
+  
+}
+img{
+  
+  border-style: solid;
+  border-color: teal;
+  border-width: thick;
+  border-radius: 50px;
+  width: 130px;
+  float: right
+}
+h2{
+  color: blue;
+  text-shadow: -1px 2px black;
+  margin: 10px
+}
+.vocaloid{
+  color:red;
+  text-decoration-style: wavy;
+  text-decoration: underline;
+  font-variant: normal;
+  font-weight: 900;
+  font-size: 20px;
+  outline-width: thick;
+  border-radius: 30px;
+}
+.db
+{ 
+color:yellow;
+  text-decoration: underline;
+  font-family: sans-serif;
+  font-weight: 900px;
+  text-shadow: -1px 5px black;
+}
