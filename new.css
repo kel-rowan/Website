@@ -33,7 +33,7 @@ img{
   border-color: teal;
   border-width: thick;
   border-radius: 50px;
-  width: 130px;
+  width: 230px;
   float: right
 }
 h2{
@@ -68,4 +68,7 @@ color:yellow;
   text-decoration: underline;
   border-style: groove;
   border-radius: 10px;
+}
+.omori{
+  width: 230px
 }
