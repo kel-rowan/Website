@@ -33,7 +33,7 @@ img{
   border-color: teal;
   border-width: thick;
   border-radius: 50px;
-  width: 120px;
+  width: 260px;
   float: right
 }
 h2{
@@ -52,6 +52,7 @@ text-align: center;
   border-radius: 10px;
   flex-shrink: 3;
   display: flex;
+fontsize:80;
   
 }
 .db
@@ -63,6 +64,7 @@ color:yellow;
   text-shadow: -1px 5px black;
   border-style: groove;
   border-radius: 10px;
+  font-size:80px;
   
 }
 .miku{
