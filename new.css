@@ -84,7 +84,8 @@ color:yellow;
   transform: translateY(-15px);
   transition:transform 0.3s ease-in-out;
   cursor: pointer;
-  color:aqua
+  color:aqua;
+  
 }
 .link:hover{
   color: aqua;
