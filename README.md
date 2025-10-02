@@ -1,1 +1,1 @@
-This website will update when i make any huge progress 
+This is the github repo for my website to use on my socials! :3
