@@ -81,8 +81,6 @@ color:yellow;
   float: left
 }
 .links:hover{
-  transform: translateY(-15px);
-  transition:transform 0.3s ease-in-out;
   cursor: pointer;
   color:aqua;
   
